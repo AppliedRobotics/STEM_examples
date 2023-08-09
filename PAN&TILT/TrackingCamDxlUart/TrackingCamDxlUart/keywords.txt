@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map TrackingCamDxlUart
+#######################################
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+
+TrackingCamDxlUart	KEYWORD1
+
+#######################################
+# Datatypes (KEYWORD2)
+#######################################
+
+TrackingCamObjInfo_t	KEYWORD2
+TrackingCamBlobInfo_t	KEYWORD2
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+TrackingCamDxlUartInit	KEYWORD2
+TrackingCamDxl_ReadBlobs	KEYWORD2
+TrackingCamDxl_ReadObjects	KEYWORD2
